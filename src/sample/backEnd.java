@@ -3,7 +3,7 @@ package sample;
 import javafx.event.ActionEvent;
 import javafx.scene.control.Label;
 
-public class SampleController {
+public class backEnd {
     public Label clicker;
     public int countedClicks = 0;
 
